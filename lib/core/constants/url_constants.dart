@@ -4,7 +4,7 @@ class UrlConstants {
 
   static const String baseUrl = isEmulator
       ? "http://10.0.2.2:8080"
-      : "http://192.168.3.46:8080";
+      : "http://192.168.3.50:8080";
 
   static const String login = "/auth/login";
   static const String signup = "/auth/sign-up";
